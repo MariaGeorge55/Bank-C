@@ -1,5 +1,6 @@
-#ifndef _STD_TYPES_H
-#define _STD_TYPES_H
+#ifndef STD_TYPES_H_INCLUDED
+#define STD_TYPES_H_INCLUDED
+
 
 typedef unsigned char u8;
 typedef unsigned short int u16;
@@ -14,4 +15,5 @@ typedef signed long int s64;
 typedef float f32;
 typedef double f64;
 
-#endif
+
+#endif // STD_TYPES_H_INCLUDED

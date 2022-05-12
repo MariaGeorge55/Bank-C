@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "STD_Types.h"
+#include "STD_TYPES.h"
 #include "LinkedList.h"
 
 node head;
@@ -18,7 +18,7 @@ void main(void)
         printf("To print the linked list enter 1\n");
         printf("To exit press to 2\n");
         printf("Your Choice: ");
-        scanf("%d", &input);
+        scanf ("%d", &input);
 
         switch (input)
         {

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652358459 source:i:\19-agile software\bank-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"LinkedList.h"
+
+1652358227 i:\19-agile software\bank-c\std_types.h
+
+1651057381 i:\19-agile software\bank-c\linkedlist.h
+
