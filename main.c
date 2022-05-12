@@ -7,7 +7,7 @@ node head;
 
 void main(void)
 {
-
+    printf("Hello World\n");
     u32 input;
     u32 newValue;
     u8 ExitFlag = 0;
